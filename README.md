@@ -6,21 +6,21 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ouzozcn&label=Profile%20views&color=0e75b6&style=flat" alt="ouzozcn" /> </p>
 
 
-- 🔭 I’m currently working at **enocta** as a user experience and user interface designer.
+- 🔭 Currently working at **[enocta]([https://idesignuix.com/](https://www.enocta.com/en))** as a user experience and user interface designer.
 
-- 🌱 I’m currently improving my front-end skills
+- 🌱 Willing to improve my front-end skills.
 
-- 👯 I’m looking to collaborate on **open-source projects**
+- 👯 Looking forward to collaborate on **open-source projects**.
 
-- 👨‍💻 All of my projects are available at [https://idesignuix.com/](https://idesignuix.com/)
+- 👨‍💻 You can check out my [portfolio website](https://idesignuix.com/) if you want to know more about my works.
 
-- 📝 I occasionaly write articles on [https://medium.com/@ouzozcn](https://medium.com/@ouzozcn)
+- 📝 Occasionaly writing articles on [medium](https://medium.com/@ouzozcn)
 
 - 💬 You can ask me about any **user experience and user interface questions.**
 
-- 📫 You can reach me via **oguz@idesignuix.com**
+- 📫 Do you have an idea that I can contribute? Let's drop a message **oguz@idesignuix.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ouzozcn/](https://www.linkedin.com/in/ouzozcn/)
+- 📄 For our beloved HR reps. Here is a quick link to my [LinkedIn](https://www.linkedin.com/in/ouzozcn/) profile.
 
 - ⚡ Fun fact **I like to write with Braille alphabet**
 

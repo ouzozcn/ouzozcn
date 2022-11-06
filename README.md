@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ouzozcn&label=Profile%20views&color=0e75b6&style=flat" alt="ouzozcn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouzozcn" alt="ouzozcn" /></a> </p>
 
-- 🔭 I’m currently working on **brifl**
+- 🔭 I’m currently working at **enocta** as a user experience and user interface designer.
 
 - 🌱 I’m currently learning **React**
 

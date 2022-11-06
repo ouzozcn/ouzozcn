@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, It's Oğuz</h1>
+<h1 align="center">Hi there 👋, it's Oğuz</h1>
+<p align="center"> <img src="https://img.shields.io/badge/developer%20friendly-ux%2Fui%20designer-orange" alt="ouzozcn" /> </p>
+
 <h3 align="center">a self-taught user experience and user interface designer who loves to create a better human-computer interaction.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ouzozcn&label=Profile%20views&color=0e75b6&style=flat" alt="ouzozcn" /> </p>

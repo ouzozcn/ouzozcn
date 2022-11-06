@@ -5,8 +5,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ouzozcn&label=Profile%20views&color=0e75b6&style=flat" alt="ouzozcn" /> </p>
 
-
-- 🔭 Currently working at **[enocta]([https://idesignuix.com/](https://www.enocta.com/en))** as a user experience and user interface designer.
+<p align="center">
+  <a href="https://www.behance.net/oguzhanozcan"><img src="https://img.shields.io/badge/behance-%233B5998.svg?&style=for-the-badge&logo=behance&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dribbble.com/ouzozcn"><img src="https://img.shields.io/badge/dribbble-%23dc2743.svg?&style=for-the-badge&logo=dribbble&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ouzozcn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ </p>
+ 
+- 🔭 Currently working at [enocta](https://www.enocta.com/en) as a user experience and user interface designer.
 
 - 🌱 Willing to improve my front-end skills.
 
@@ -14,23 +19,15 @@
 
 - 👨‍💻 You can check out my [portfolio website](https://idesignuix.com/) if you want to know more about my works.
 
-- 📝 Occasionaly writing articles on [medium](https://medium.com/@ouzozcn)
+- 📝 Occasionaly writing articles on [medium](https://medium.com/@ouzozcn).
 
 - 💬 You can ask me about any **user experience and user interface questions.**
 
 - 📫 Do you have an idea that I can contribute? Let's drop a message **oguz@idesignuix.com**
 
-- 📄 For our beloved HR reps. Here is a quick link to my [LinkedIn](https://www.linkedin.com/in/ouzozcn/) profile.
+- ⚡ Fun fact **I like to write with Braille alphabet**.
 
-- ⚡ Fun fact **I like to write with Braille alphabet**
 
-<h3 align="center">Connect</h3>
-<p align="center">
-<a href="https://linkedin.com/in/ouzozcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ouzozcn" height="30" width="40" /></a>
-<a href="https://dribbble.com/ouzozcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ouzozcn" height="30" width="40" /></a>
-<a href="https://www.behance.net/oguzhanozcan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="oguzhanozcan" height="30" width="40" /></a>
-<a href="https://medium.com/@ouzozcn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ouzozcn" height="30" width="40" /></a>
-</p>
 
 <h3 align="center">Toolstack</h3>
 <p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>

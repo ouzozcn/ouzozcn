@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/ouzozcn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  </p>
  
-- 🔭 Currently working at [enocta](https://www.enocta.com/en) as a user experience and user interface designer.
+- 🔭 Currently working at [Jotform](https://www.jotform.com) as a user experience and user interface designer.
 
 - 🌱 Willing to improve my front-end skills.
 

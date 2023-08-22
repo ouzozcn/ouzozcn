@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, it's Oğuz</h1>
-<p align="center"> <img src="https://img.shields.io/badge/developer%20friendly-ux%2Fui%20designer-orange" alt="ouzozcn" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/developer%20friendly-product%20designer-orange" alt="ouzozcn" /> </p>
 
 <h3 align="center">product designer who loves to create user-centered-design</h3>
 

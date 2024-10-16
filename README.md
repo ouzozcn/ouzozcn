@@ -21,7 +21,7 @@
 
 - 💬 You can ask me about any **product, user experience and user interface design questions.**
 
-- 📫 Do you have an idea that I can contribute? Let's drop a message **oguz@idesignuix.com**
+- 📫 Do you have an idea that I can contribute? Let's drop a message.
 
 - ⚡ Fun fact **I like to write with Braille alphabet**.
 

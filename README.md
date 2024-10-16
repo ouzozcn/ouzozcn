@@ -15,7 +15,7 @@
 
 - 👯 Looking forward to collaborate on **open-source projects**.
 
-- 👨‍💻 You can check out my [portfolio website](https://idesignuix.com/) if you want to know more about my works.
+- 👨‍💻 You can check out my [portfolio website](https://o10n.design/) if you want to know more about my works.
 
 - 📝 Occasionaly writing articles on [medium](https://medium.com/@ouzozcn).
 

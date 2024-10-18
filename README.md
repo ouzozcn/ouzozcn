@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, it's Oğuz</h1>
-<h3 align="center">dev-friendly product designer.</h3>
 <p align="center"> <img src="https://img.shields.io/badge/developer%20friendly-product%20designer-orange" alt="ouzozcn" /> </p>
 <p align="center">
   <a href="https://www.behance.net/oguzhanozcan"><img src="https://img.shields.io/badge/behance-%233B5998.svg?&style=for-the-badge&logo=behance&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;

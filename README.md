@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, it's Oğuz</h1>
-<p align="center"> <img src="https://img.shields.io/badge/developer%20friendly-product%20designer-orange" alt="ouzozcn" /> </p>
-
 <h3 align="center">dev-friendly product designer.</h3>
-
+<p align="center"> <img src="https://img.shields.io/badge/developer%20friendly-product%20designer-orange" alt="ouzozcn" /> </p>
 <p align="center">
   <a href="https://www.behance.net/oguzhanozcan"><img src="https://img.shields.io/badge/behance-%233B5998.svg?&style=for-the-badge&logo=behance&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dribbble.com/ouzozcn"><img src="https://img.shields.io/badge/dribbble-%23dc2743.svg?&style=for-the-badge&logo=dribbble&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;

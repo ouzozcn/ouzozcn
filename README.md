@@ -22,6 +22,8 @@
 
 - ⚡ Fun fact **I like to write with Braille alphabet**.
 
+[![roadmap.sh](https://roadmap.sh/card/tall/67202b3831d65c235d55e643?variant=dark)](https://roadmap.sh)
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ouzozcn&label=Profile%20views&color=0e75b6&style=flat" alt="ouzozcn" /> </p>
 

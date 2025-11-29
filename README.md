@@ -59,18 +59,6 @@ Building accessible SaaS products, design systems, and developer-friendly compon
 
 ---
 
-## ❈ GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ouzozcn&show_icons=true&theme=transparent&hide_border=true&count_private=true&ring_color=fff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ouzozcn&layout=donut&theme=transparent&hide_border=true)
-
-</div>
-
-<br>
-
 ## ☉ Current Focus
 ```typescript
 const currentlyLearning = {

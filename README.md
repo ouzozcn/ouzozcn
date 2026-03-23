@@ -2,9 +2,9 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=42&duration=2800&pause=2000&color=fff&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+O%C4%9Fuzhan+%C3%96zcan;Product+Designer+%E2%86%92+Design+Engineer;Building+Accessible+SaaS+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=42&duration=2800&pause=2000&color=fff&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+It's+O%C4%9Fuz;Senior+Product+Designer+%E2%86%92+Design+Engineer;Building+Accessible+SaaS+Products" alt="Typing SVG" />
 
-### Bridging Design & Development
+### Crafting Between Design & Development
 Building accessible SaaS products, design systems, and developer-friendly components
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-o10n.design-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://o10n.design)
@@ -27,7 +27,8 @@ Building accessible SaaS products, design systems, and developer-friendly compon
 
 ##  ❖  What I Use
 ### Design
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=figma&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=figma&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-FF6100?style=flat-square&logo=replit&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 ![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?style=flat-square&logo=chromatic&logoColor=white)
 ### Development

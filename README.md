@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=42&duration=2800&pause=2000&color=fff&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+It's+O%C4%9Fuz;Senior+Product+Designer+%E2%86%92+Design+Engineer;Building+Accessible+SaaS+Products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=42&duration=2800&pause=2000&color=fff&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+It's+O%C4%9Fuz;Senior+Product+Designer+%E2%86%92+Design+Engineer" alt="Typing SVG" />
 
 ### Crafting Between Design & Development
 Building accessible SaaS products, design systems, and developer-friendly components

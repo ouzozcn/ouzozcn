@@ -18,7 +18,7 @@ Building accessible SaaS products, design systems, and developer-friendly compon
 
 ## ✦ What I Do
 
--  **Product Designer** at [Jotform Enterprise](https://jotform.com/enterprise?utm_source=ouzozcn-github&utm_medium=referral&utm_campaign=o10n-ref&utm_id=2025100501) — designing secure, scalable SaaS experiences
+-  **Senior Product Designer** at [Jotform](https://jotform.com/?utm_source=ouzozcn-github&utm_medium=referral&utm_campaign=o10n-ref&utm_id=2025100501) — designing secure, scalable SaaS experiences
 -  **Design Systems** — building component libraries with Figma, Storybook, and React
 -  **Accessibility Advocate** — created [Kroma](https://usekroma.com), a free color blindness checker
 -  **Learning to Code** — transitioning from design to design engineering

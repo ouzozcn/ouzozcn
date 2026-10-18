@@ -2,7 +2,8 @@
 
 <div align="center">
   
-# Senior Product Designer & Design Engineer
+# Oğuzhan Özcan
+Sr. Product Designer & Design Engineer
 
 ### Crafting Between Design & Development
 Building SaaS products that grows, design systems that scales, and develop components that developer likes

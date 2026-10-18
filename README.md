@@ -2,10 +2,10 @@
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=42&duration=2800&pause=2000&color=fff&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+It's+O%C4%9Fuz;Senior+Product+Designer+%E2%86%92+Design+Engineer" alt="Typing SVG" />
+# Senior Product Designer & Design Engineer
 
 ### Crafting Between Design & Development
-Building accessible SaaS products, design systems, and developer-friendly components
+Building SaaS products that grows, design systems that scales, and develop components that developer likes
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-o10n.design-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://o10n.design)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ouzozcn)
@@ -93,9 +93,4 @@ I'm always open to:
 <div align="center">
 
 **Thanks for visiting! ✦**
-
-![Profile Views](https://komarev.com/ghpvc/?username=ouzozcn&label=Profile%20Views&color=292524&style=flat)
-
-
-
 </div>
